@@ -1,6 +1,6 @@
 What is it?
 -------------
-This is Observatory v0.4.8 - package that provides powerful, efficient
+This is Logger v0.4.8 - package that provides powerful, efficient
 and pretty logging, monitoring and application management for [Meteor framework](http://meteor.com) application development and 
 deployment.
 [See it in action and read full usage docs!](http://observatoryjs.com/)
