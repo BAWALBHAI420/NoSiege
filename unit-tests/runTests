@@ -1,2 +1,0 @@
-mocha -R spec --watch --compilers coffee:coffee-script ttt.coffee
-
