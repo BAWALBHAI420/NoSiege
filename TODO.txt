@@ -1,0 +1,4 @@
+1. Create a portal for applicants to upload their CVs 
+2. Verify the Details of the pending referrals(referals.csv)
+3. Create an efficient database to store the CVs and referrals
+4. Take Valarie out for dinner <3
